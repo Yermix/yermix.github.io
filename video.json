@@ -7,7 +7,7 @@
   {
     "location": "Video",
     "title": "Video",
-    "url_1080p_hdr": "https://yermix.github.io/m2-res_1080p.mp4"
+    "url_1080p": "https://yermix.github.io/m2-res_1080p.mp4"
   },
   {
     "location": "Pictuxre 31",
@@ -25,8 +25,8 @@
     "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C002_C005_PSNK_v05_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov"
   },
   {
-    "location": "Picture 71",
-    "title": "Picture 71",
+    "location": "Picture 7x",
+    "title": "Picture 7x",
     "url_4k": "https://yermix.github.io/large-sakura-tree.3840x2160.mp4"
   }
 ]
